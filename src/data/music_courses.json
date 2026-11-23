@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Master the fundamentals of piano and start playing your favorite songs.",
+      "price": 119.99,
+      "instructor": "Sarah Wilson",
+      "isFeatured": true,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Vocal Training",
+      "slug": "advanced-vocal-training",
+      "description": "Improve your singing technique, range, and performance skills.",
+      "price": 149.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": false,
+      "image": "/courses/vocals.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drum Essentials",
+      "slug": "drum-essentials",
+      "description": "Learn rhythm, timing, and essential drumming techniques.",
+      "price": 89.99,
+      "instructor": "Michael Brown",
+      "isFeatured": false,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Music Production Basics",
+      "slug": "music-production-basics",
+      "description": "Discover how to create, record, and mix music using modern software.",
+      "price": 199.99,
+      "instructor": "David Smith",
+      "isFeatured": true,
+      "image": "/courses/music-production.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Violin Masterclass",
+      "slug": "violin-masterclass",
+      "description": "Develop your violin skills with expert guidance and practical exercises.",
+      "price": 129.99,
+      "instructor": "Anna Lee",
+      "isFeatured": false,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Learn the art of improvisation and explore jazz harmony concepts.",
+      "price": 159.99,
+      "instructor": "Robert Davis",
+      "isFeatured": true,
+      "image": "/courses/jazz.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Creation",
+      "slug": "electronic-music-creation",
+      "description": "Create professional electronic music tracks from scratch.",
+      "price": 179.99,
+      "instructor": "Chris Martin",
+      "isFeatured": false,
+      "image": "/courses/electronic.jpg"
+    }
+  ]
+}
